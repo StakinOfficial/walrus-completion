@@ -7,7 +7,7 @@ Detects commands, subcommands and flags by parsing the CLI output. A whitelist i
 # Installation
 
 ```sh
-wget replace_with_link_to_script -O ~/walrus-completion.sh && echo "source ~/walrus-completion.sh" >> ~/.bashrc
+wget https://raw.githubusercontent.com/StakinOfficial/walrus-completion/refs/heads/main/walrus_completion.sh -O ~/walrus_completion.sh && echo "source ~/walrus_completion.sh" >> ~/.bashrc
 
 ```
 
