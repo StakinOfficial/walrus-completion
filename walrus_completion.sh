@@ -4,7 +4,7 @@
 #                            walrus_completion.sh                              #
 #   This script was coded by stakin.com.                                       #
 #   If you encounter any bugs, please report them at:                          #
-#   https://github.com/StakinOfficial/walrus-completion/issues                     #
+#   https://github.com/StakinOfficial/walrus-completion/issues                 #
 #                                                                              #
 #   Licensed under the MIT License.                                            #
 #                                                                              #
