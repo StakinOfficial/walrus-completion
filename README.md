@@ -23,14 +23,14 @@ Zsh:
 wget https://raw.githubusercontent.com/StakinOfficial/walrus-completion/refs/heads/main/walrus_completion.zsh -O ~/walrus_completion.zsh && echo "source ~/walrus_completion.zsh" >> ~/.zshrc
 ```
 
-Python CLI:
+Walrus Python CLI:
 ```
 wget https://raw.githubusercontent.com/StakinOfficial/walrus-completion/refs/heads/main/walrus.py
 ```
 
 # Usage
 
-Python CLI
+Walrus Python CLI
 
 ```
 python3 walrus.py
