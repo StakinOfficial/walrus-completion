@@ -6,7 +6,7 @@ Detects commands, subcommands and flags by parsing the CLI output. A whitelist i
 
 Python Walrus CLI for easy usage.
 
-Uses walrus cli in a user-friendly way. For requirements it depends on the walrus binary and python 3 to be run.
+Uses walrus cli in a user-friendly way. For requirements it depends on the walrus binary and python 3 to run.
 
 # Installation
 
